@@ -1,0 +1,30 @@
+Spambot
+Sebelum dijalankan Sc Instal perintah modul Dulu!!!
+pembaruan $pkg && peningkatan pkg
+
+$pkg instal python
+
+$pkg instal git
+
+$pip permintaan pemasangan
+
+$pip install colorama
+
+$pip instal bs4
+
+$git clone https://github.com/henarimualimin/Spambot
+
+$cd Spambot
+
+$l
+
+sebelum semuanya kalian tinggal jalankan dengan perintah
+python spambot_enc.py
+
+Atau pakai Sc kedua dengan perintah python spambot2_enc.py
+
+Tinggal kalian pilih yang mana yang bagus!
+
+JANGAN LUPA KASIH STAR BINTANG PROFIL SAYA OKE
+JIKA KALIAN MENGALAMI GAGAL GUNAKAN TERMUX VERSI LAMA ATAU DSRI GOOGLE FDROID
+SELAMAT MENCOBA
